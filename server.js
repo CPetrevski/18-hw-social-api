@@ -11,8 +11,7 @@ app.use(require('./routes'));
 
 mongoose.connect('mongodb://localhost:27017/socialnetwork', {
   useNewUrlParser: true,
-    useFindAndModify: false,
-    useUnifiedTopology: true
+  useUnifiedTopology: true
 });
 
 mongoose.set('debug', true);

@@ -40,4 +40,9 @@ npm start
 
 ## Demo
 
+<a href="https://watch.screencastify.com/v/aCZ1oYOeL7KEayvsVuzc">Demo Video</a>
+
 ## Links
+
+<a href="https://github.com/CPetrevski/18-hw-social-api">GitHub Repo</a>
+
